@@ -1,1 +1,1 @@
-# spinqit-examples
+# SpinQit Examples
